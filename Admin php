@@ -6,10 +6,10 @@ if (!isset($_SESSION["login"])) {
 }
 $mahasiswa = [
     [
-        "nama" => "Iqwal Sumiranda",
-        "email" => "iwal@uin.ac.id",
+        "nama" => "M.SAID GIBRAN",
+        "email" => "msaidgibran@gmail.com",
         "jurusan" => "Sistem Informasi",
-        "gambar" => "kaisar.jpg"
+        "gambar" => "image.jpg"
     ]
 ];
 ?>
